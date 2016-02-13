@@ -1,0 +1,6 @@
+token:gh_d545c51543fc
+
+得到access_token
+https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=wx659ecc805f987bac&secret=da3bb34cc373fd0c4921b414c08eddef
+结果:
+M2b4SWtaUCF1FyHmIFWpW5VVhl5N3PyP9ufqh9isVJUGzbL9Rx9rMRjWDEsidxTx3jqASipOnw9pEbzSRkKSeu7JBasWaOJrzFtdFb-BRHCG8B2nJ5mPYqBqS__almEyEZVaABAMHD
