@@ -1231,7 +1231,7 @@ class wechatCallbackapiTest2
 		}
     }
 
-    public function responseMsg()
+    public function responseMsg2()
     {
 		global $_SGLOBAL;
 		$timestamp=$this->timestamp;
